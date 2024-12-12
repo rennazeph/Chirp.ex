@@ -1,2 +1,2 @@
 # Chirp.ex
-By @renna.zeph
+A mock social website for a City Builder game. 
